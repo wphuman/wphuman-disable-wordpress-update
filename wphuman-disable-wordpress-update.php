@@ -1,22 +1,19 @@
 <?php
-/**
- * @package wphuman-disable-wordpress-update
- * @version 1.1.0
- */
+
 /**
  * Plugin Name:         WP Human Disable WordPress Update
- * Description:         Disable WordPress Update.  Made by Tang Rufus
+ * Description:         Disable WordPress Update.  Made by Tang Rufus from WP Human
  * Author:              Tang Rufus
  * Author URI:          http://wphuman.com
- * Author Twitter:      @tangrufus
+ * Author Twitter:      @tangrufus, @wphuman
  * Author Email:        rufus@wphuman.com
- * Version:             1.1.0
- * License:             GNU General Public License v3.0
- * License URI:         http://www.opensource.org/licenses/gpl-license.php
+ * Version:             1.1.1
+ * License:             GPL-2.0+
+ * License URI:         http://www.gnu.org/licenses/gpl-2.0.txt
  * GitHub Plugin URI: 	https://github.com/wp-human/wphuman-disable-wordpress-update
  * GitHub Branch:       master
  *
-*/
+ */
 
 /** Disable the Update Notice */
 add_filter( 'pre_site_transient_update_core',  '__return_null' ); // screening core update
