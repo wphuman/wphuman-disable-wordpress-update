@@ -3,7 +3,7 @@
 /**
  * Plugin Name:         WP Human Disable WordPress Update
  * Description:         Disable WordPress Update.  Made by Tang Rufus from WP Human
- * Author:              Tang Rufus
+ * Author:              Tang Rufus @ WP Human
  * Author URI:          http://wphuman.com
  * Author Twitter:      @tangrufus, @wphuman
  * Author Email:        rufus@wphuman.com
