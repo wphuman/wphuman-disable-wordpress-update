@@ -31,3 +31,6 @@ wp_clear_scheduled_hook( 'wp_version_check' );
 /** Disable WPMUDEV update notice */
 remove_action( 'admin_notices', 'wdp_un_check', 5 );
 remove_action( 'network_admin_notices', 'wdp_un_check', 5 );
+
+/** Disable WooThemes updater notice */
+remove_action( 'admin_notices', 'woothemes_updater_notice' );
