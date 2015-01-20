@@ -7,7 +7,7 @@
  * Author URI:          http://wphuman.com
  * Author Twitter:      @tangrufus, @wphuman
  * Author Email:        rufus@wphuman.com
- * Version:             1.2.0
+ * Version:             1.3.1
  * License:             GPL-2.0+
  * License URI:         http://www.gnu.org/licenses/gpl-2.0.txt
  * GitHub Plugin URI: 	https://github.com/wphuman/wphuman-disable-wordpress-update
